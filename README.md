@@ -1,7 +1,9 @@
 
 ### Olá!! Sou o Felipe Turini 👋
 Atualmente discente pela UNISAGRADO - Bauru-SP 🏫 <br>
-Cursando Ciências da Computação - Bacharelado 💻
+Cursando Ciências da Computação - Bacharelado 💻 <br>
+<br>
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-jeske-turini-8b7a8926b/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jturini&show_icons=true&theme=merko)
 
@@ -21,6 +23,8 @@ Cursando Ciências da Computação - Bacharelado 💻
     <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 </div>
+
+    
     
   
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-jeske-turini-8b7a8926b/)
+
