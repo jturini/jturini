@@ -1,5 +1,5 @@
 
-### Olá!! Sou o Felipe Turini 👋
+### Hello! I'm Felipe Turini 👋
 Atualmente discente pela UNISAGRADO - Bauru-SP 🏫 <br>
 Cursando Ciências da Computação - Bacharelado 💻 <br>
 <br>
