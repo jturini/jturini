@@ -79,13 +79,16 @@
 
 ###
 
-<h2 align="left">Oh I do write articles on Cybersecurity, check it out below:</h2>
+<p align="left">Check what I'm writing about:</p>
 
 ###
 
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cyberturini/0">
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@cyberturini/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cyberturini/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@cyberturini/1" alt="Medium post 2"  />
   </a>
 </div>
 
